@@ -7,4 +7,4 @@ def turn_count(board)
 end
 
 def current_player(board)
-  if counter = 0 || 2 || 4 || 6 || 8
+  if counter = 

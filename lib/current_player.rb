@@ -6,5 +6,5 @@ def turn_count(board)
   end
 end
 
-def current_method(board)
+def current_player(board)
   if counter = 0 || 2 || 4 || 6 || 8
